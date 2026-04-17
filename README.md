@@ -1,4 +1,4 @@
-# 🤖 Welito OS - v1.0
+# 🤖 Welito OS - v1.1
 > Un asistente personal inteligente diseñado para la eficiencia y el diagnóstico de sistemas.
 
 ## ✨ Características
@@ -8,7 +8,7 @@
 * **Auto-Update:** Sistema de notificaciones para nuevas versiones.
 
 ## 🚀 Instalación
-1. Ve a la sección de [Releases](https://github.com/welitooficial-art/Welito.os/releases/tag/v1.0).
+1. Ve a la sección de [Releases]([https://github.com/welitooficial-art/Welito.os/releases/tag/v1.0](https://github.com/welitooficial-art/Welito.os/releases/tag/v1.1.1)).
 2. Descarga `Welito.exe`.
 3. ¡Ejecuta y disfruta!
 
