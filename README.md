@@ -1,38 +1,40 @@
-# 🤖 Welito OS - v1.1
-> Un asistente personal inteligente diseñado para la eficiencia y el diagnóstico de sistemas.
+# 🤖 Welito OS - v1.2.1 [GOLD EDITION] 🧠✨
+> El núcleo intelectual definitivo. Un asistente científico diseñado para la máxima eficiencia, precisión matemática y seguridad estratégica.
 
-## ✨ Características
-* **IA Generativa:** Consultas inteligentes en tiempo real.
-* **Diagnóstico de Sistema:** Monitorización de salud del PC y red.
-* **Memoria Local:** Registro de notas y recordatorios.
-* **Auto-Update:** Sistema de notificaciones para nuevas versiones.
+## ✨ Novedades de la Versión GOLD
+* **🧠 Inteligencia Científica Superior:** Consultas avanzadas con un sistema de historial optimizado.
+* **📏 Módulo de Conversiones Universal:** Dominio total de unidades de Longitud, Masa, Presión, Temperatura, Energía y ahora **Tiempo** (h, min, s, ms).
+* **🧮 Cálculo Aritmético Avanzado:** Procesamiento de operaciones complejas mediante el comando `calc`.
+* **🛡️ Seguridad AES-256:** Activación del protocolo de cifrado mediante el comando `pass`.
+* **📟 Manual Integrado:** Acceso a definiciones teóricas y ejemplos prácticos directamente desde la consola con el comando `AYUDA`.
 
 ## 🚀 Instalación
-1. Ve a la sección de [Releases]([https://github.com/welitooficial-art/Welito.os/releases/tag/v1.0](https://github.com/welitooficial-art/Welito.os/releases/tag/v1.1.1)).
-2. Descarga `Welito.exe`.
-3. ¡Ejecuta y disfruta!
+1. Acceda a la sección de [Releases](https://github.com/welitooficial-art/Welito.os/releases/tag/v1.2.1).
+2. Descargue el archivo `WelitoOS_v1.2.1.exe`.
+3. ¡Ejecute y postule su tesis, Señor!
 
-## ⚠️ Notas de Seguridad e Instalación
+## ⚠️ Protocolo de Seguridad e Instalación
 
-Debido a que Welito es un software de código abierto independiente y no posee una firma digital de Microsoft, es posible que encuentre los siguientes avisos durante la instalación:
+Al ser **Welito** un software de vanguardia independiente, es imperativo seguir estos pasos para garantizar un despliegue sin interferencias:
 
 ### 🛡️ Windows SmartScreen
-Si al ejecutar `Welito.exe` aparece una pantalla azul con el mensaje **"Windows protegió su PC"**:
+Si visualiza el mensaje **"Windows protegió su PC"**:
 1. Haga clic en **"Más información"**.
-2. Seleccione el botón **"Ejecutar de todas formas"**.
-*Este proceso solo es necesario la primera vez o tras una actualización mayor.*
+2. Seleccione **"Ejecutar de todas formas"**.
+*Este protocolo de confianza solo se requiere en el primer inicio.*
 
-### 🛠️ Solución de errores comunes
-* **Error de Extracción (DLL):** Si recibe un error indicando que no se pudo extraer `tk86t.dll`, mueva el archivo `.exe` fuera de la carpeta de "Descargas" (por ejemplo, al Escritorio) y asegúrese de que su antivirus no esté bloqueando los archivos temporales.
+### 🛠️ Solución de Errores Críticos (Extracción)
+* **Conflicto de Carpetas:** Si el sistema reporta un error de extracción (-3) relacionado con `assets` o `tk86t.dll`, asegúrese de **borrar cualquier carpeta temporal previa** generada por versiones antiguas.
+* **Ubicación Recomendada:** Mueva el archivo `.exe` a una carpeta dedicada (ej. `C:/WelitoOS/`) para evitar restricciones de la carpeta de Descargas.
 
 ---
 
-## 🔄 ¿Cómo actualizar Welito?
+## 🔄 ¿Cómo realizar el Upgrade a la Versión Gold?
 
-¡Mantener a Welito al día es muy sencillo!
-1. **Cierre** la versión de Welito que tenga actualmente en ejecución.
-2. Vaya a la sección de [Releases](https://github.com/SuUsuario/Welito/releases) y descargue la versión más reciente (ej. v1.1).
-3. **Reemplace** el archivo `Welito.exe` antiguo por el nuevo en su carpeta habitual.
-4. Sus notas y recordatorios locales se mantendrán intactos, ya que se guardan de forma independiente al programa.
+1. **Finalice** cualquier proceso activo de versiones anteriores de Welito.
+2. **Descargue** la `v1.2.1 Gold Edition` desde el apartado de Releases.
+3. **Sustituya** el ejecutable antiguo por el nuevo. 
+4. **Nota:** Su configuración neuronal y archivos de soporte se mantendrán vinculados automáticamente al nuevo núcleo.
+
 ---
-*Desarrollado con ❤️ por [Welitooficial-art]*
+*Desarrollado con distinción y ❤️ por [Welitooficial-art]*
