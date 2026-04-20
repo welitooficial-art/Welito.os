@@ -1,4 +1,4 @@
-# 🤖 Welito OS - v1.2.1 [GOLD EDITION] 🧠✨
+# 🤖 Welito OS - v1.3 🧠✨
 > El núcleo intelectual definitivo. Un asistente científico diseñado para la máxima eficiencia, precisión matemática y seguridad estratégica.
 
 ## ✨ Novedades de la Versión GOLD
@@ -9,8 +9,8 @@
 * **📟 Manual Integrado:** Acceso a definiciones teóricas y ejemplos prácticos directamente desde la consola con el comando `AYUDA`.
 
 ## 🚀 Instalación
-1. Acceda a la sección de [Releases](https://github.com/welitooficial-art/Welito.os/releases/tag/v1.2.1).
-2. Descargue el archivo `WelitoOS_v1.2.1.exe`.
+1. Acceda a la sección de [Releases](https://github.com/welitooficial-art/Welito.os/releases/tag/v1.3).
+2. Descargue el archivo `WelitoOS_v1.3.exe`.
 3. ¡Ejecute y postule su tesis, Señor!
 
 ## ⚠️ Protocolo de Seguridad e Instalación
